@@ -67,6 +67,7 @@
 
 </table>
 
+
 ## :computer: Open Source Contributions
 
 <details>
@@ -80,6 +81,7 @@
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/jnvw?cardType=github&theme=nightowl)](https://git.io/awesome-stats-card)
 
 <img src="https://github-readme-streak-stats.herokuapp.com?user=jnvw&theme=tokyonight_duo">
+## :language used
 
 ## :man_technologist: Coding profiles
 
